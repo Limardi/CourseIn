@@ -162,7 +162,7 @@ Future<void> askAIabt(String prompt) async {
       prompt +
       ' course. Answer with around 200 words only';
   final apiKey =
-      'sk-proj-fx4qOsUUQox7xGFzMoSiT3BlbkFJB2TsNDTwliegS14F7xLB'; // Replace with your OpenAI API key
+      ''; // Replace with your OpenAI API key
   final url = 'https://api.openai.com/v1/chat/completions';
   final String _assistantId = 'asst_ZEygT9WuQls0UbW4HEzYazty';
 
