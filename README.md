@@ -1,4 +1,4 @@
-![Screenshot_2] https://github.com/Limardi/CourseIn/blob/master/flutter_01.png
+![flutter_01](https://github.com/user-attachments/assets/1ac86a45-890d-400c-ba70-60cef5fbb9c2)
 
 # Software Studio Final project
 ## Getting Started
