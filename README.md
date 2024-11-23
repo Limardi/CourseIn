@@ -7,3 +7,11 @@ A Simple App for help NTHU students select the course they needed. integrating A
 Dont forget to change the API key in ai.dart file
 
 using OpenAI assistant for the AI.
+
+Created by:
+- Vincent Limardi
+- Neville Natalio Davisan
+- Jeremy Robert
+- Aryabima Mandala Putra
+- Winnie Faustine
+- Quaneisha Kristy
